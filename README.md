@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeferson</h1>
-<h3 align="center">A passionate web developer and business from Brazil</h3>
+<h3 align="center">A passionate to web development and business from Brazil</h3>
 
 - 📫 How to reach me **jefersonmendes3c@gmail.com**
 
