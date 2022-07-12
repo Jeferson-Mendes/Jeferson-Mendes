@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeferson</h1>
 <h3 align="center">A passionate to web development and business from Brazil</h3>
 
-- 📫 How to reach me **jefersonmendes3c@gmail.com**
+- 📫 How to reach me **jefersonmendes3c@gmail.com** or **jefersonmendesdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
