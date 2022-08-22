@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jeferson</h1>
 <h3 align="center">A passionate to web development and business from Brazil</h3>
+<h4 align="start">Talkink about</h4>
+<ul>
+  <li>Business</li>
+  <li>Investiments</li>
+  <li>Technology</li>
+  <li>Web Developement</li>
+</ul>
 
 - 📫 How to reach me **jefersonmendes3c@gmail.com** or **jefersonmendesdev@gmail.com**
 
