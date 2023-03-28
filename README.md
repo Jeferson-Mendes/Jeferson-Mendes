@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jeferson</h1>
 <h3 align="center">A passionate to web development and business</h3>
 <h3 align="center"> From Brazil </h3>
-<h4 align="start">Talkink about</h4>
+<h4 align="start">Talking about</h4>
 <ol>
   <li>Business</li>
   <li>Investiments</li>
   <li>Technology</li>
-  <li>Web Developement</li>
+  <li>Web Development</li>
+  <li>Backend Development</li>
+  <li>Clean Architeture</li>
 </ol>
 
 - 📫 How to reach me **jefersonmendes3c@gmail.com** or **jefersonmendesdev@gmail.com**
